@@ -1,0 +1,8 @@
+C:\Users\Shahriar\documents\visual studio 2015\Projects\Analyzer\Analyzer\bin\Debug\Analyzer.exe
+C:\Users\Shahriar\documents\visual studio 2015\Projects\Analyzer\Analyzer\bin\Debug\Analyzer.pdb
+C:\Users\Shahriar\documents\visual studio 2015\Projects\Analyzer\Analyzer\obj\Debug\Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\Shahriar\documents\visual studio 2015\Projects\Analyzer\Analyzer\obj\Debug\Analyzer.Form1.resources
+C:\Users\Shahriar\documents\visual studio 2015\Projects\Analyzer\Analyzer\obj\Debug\Analyzer.Properties.Resources.resources
+C:\Users\Shahriar\documents\visual studio 2015\Projects\Analyzer\Analyzer\obj\Debug\Analyzer.csproj.GenerateResource.Cache
+C:\Users\Shahriar\documents\visual studio 2015\Projects\Analyzer\Analyzer\obj\Debug\Analyzer.exe
+C:\Users\Shahriar\documents\visual studio 2015\Projects\Analyzer\Analyzer\obj\Debug\Analyzer.pdb

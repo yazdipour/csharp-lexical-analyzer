@@ -1,0 +1,19 @@
+// Sample with comments
+
+#include CLibrary;
+using C#Library;
+import JavaLibrary;
+
+void main()
+{
+	int _000 =  8;
+	float b = 9.9;
+	/*this is a test program
+	ignore these comments*/
+	int c = 0.987;
+	double dd;
+
+	dd += 9.9;
+	if (dd != 0)
+		cout<<"Error";
+}
