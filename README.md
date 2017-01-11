@@ -4,6 +4,8 @@
 
 ### How you wanna understand this proj
 
+![alt tag](http://shahriar.in/blog/wp-content/uploads/Screen.png)
+
 0. Run Analyzer.exe and have a look!
 1. Understand DFA.jpg
 2. Understand how matrix.txt works (Help:use matrixhelp.txt)
