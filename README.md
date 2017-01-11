@@ -2,9 +2,10 @@
 
 ### Compiler project - C# App that can analyze codes
 
-### How you wanna understand this proj
 
 ![alt tag](http://shahriar.in/blog/wp-content/uploads/Screen.png)
+
+### Steps to understand this proj
 
 0. Run Analyzer.exe and have a look!
 1. Understand DFA.jpg
