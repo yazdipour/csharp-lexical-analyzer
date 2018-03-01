@@ -3,7 +3,7 @@
 ### Compiler project - C# App that can analyze codes
 
 
-![alt tag](http://shahriar.in/blog/wp-content/uploads/Screen.png)
+![alt tag](https://github.com/yazdipour/Lexical_Analyzer_in_CSharp/blob/master/DFA.jpg)
 
 ### Steps to understand this proj
 
